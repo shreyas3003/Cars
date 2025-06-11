@@ -1,0 +1,12 @@
+ Specifications (India models):
+E 200 (Petrol): 2.0L, 4-cylinder, turbocharged
+Power: 197 hp
+Torque: 320 Nm
+E 220d (Diesel): 2.0L, 4-cylinder, turbocharged
+Power: 194 hp
+Torque: 400 Nm
+E 350d (Diesel): 3.0L, in-line 6-cylinder, turbocharged
+Power: 286 hp
+Torque: 600 Nm
+Transmission: 9-speed automatic (9G-TRONIC)
+Drive Type: Rear-wheel drive (RWD)
