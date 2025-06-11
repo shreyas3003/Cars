@@ -1,0 +1,13 @@
+Specifications:
+Engine Options (India):
+520d: 2.0L 4-cylinder diesel (190 hp)
+530i: 2.0L 4-cylinder petrol (252 hp)
+530d: 3.0L 6-cylinder diesel (265 hp)
+Transmission: 8-speed Steptronic automatic
+Drive Type: Rear-wheel drive (some markets get xDrive AWD)
+⚙️ Performance:
+0-100 km/h:
+520d: ~7.3 sec
+530i: ~6.1 sec
+530d: ~5.7 sec
+Top Speed: ~250 km/h (limited)
